@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://bit.ly/yhauajjdng";
+        location.href="http://outrotomr.com/4/3144603";
     }
     function goon(){
-        location.href="https://bit.ly/yhauajjdng";
+        location.href="http://outrotomr.com/4/3144603";
     }
